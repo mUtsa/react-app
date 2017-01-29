@@ -1,0 +1,30 @@
+{
+  "name": "react-app",
+  "version": "0.0.1",
+  "private": true,
+  "devDependencies": {
+    "react-scripts": "0.8.5"
+  },
+  "dependencies": {
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mUtsa/react-app.git"
+  },
+  "author": "Avrumutsoae Alexander",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mUtsa/react-app/issues"
+  },
+  "homepage": "https://github.com/mUtsa/react-app#readme"
+}
